@@ -408,7 +408,7 @@
       "interactions": "Tetracycline may interact with certain medications. Consult your healthcare provider about potential drug interactions."
     },
     {
-      "generic_name": "Trimethoprim/Sulfamethoxazole",
+      "generic_name": "Trimethoprim/ Sulfamethoxazole",
       "brand_name": "Bactrim",
       "therapeutic_class": "Sulfonamide Antibiotic",
       "indication": "Used to treat a variety of bacterial infections, including urinary tract and respiratory infections.",
@@ -1032,7 +1032,7 @@
       "interactions": "Mefloquine may interact with certain medications. Consult your healthcare provider about potential drug interactions."
     },
     {
-      "generic_name": "Atovaquone/Proguanil",
+      "generic_name": "Atovaquone/ Proguanil",
       "brand_name": "Malarone",
       "therapeutic_class": "Atovaquone/Proguanil Combination",
       "indication": "Used to treat and prevent malaria caused by Plasmodium species.",
@@ -1045,7 +1045,7 @@
       "interactions": "Atovaquone/proguanil may interact with certain medications. Consult your healthcare provider about potential drug interactions."
     },
     {
-      "generic_name": "Artemether/Lumefantrine",
+      "generic_name": "Artemether/ Lumefantrine",
       "brand_name": "Coartem",
       "therapeutic_class": "Artemisinin Combination Therapy (ACT)",
       "indication": "Used to treat uncomplicated malaria caused by Plasmodium falciparum.",
@@ -1097,7 +1097,7 @@
       "interactions": "Primaquine may interact with certain medications. Consult your healthcare provider about potential drug interactions."
     },
     {
-      "generic_name": "Pyrimethamine/Sulfadoxine",
+      "generic_name": "Pyrimethamine/ Sulfadoxine",
       "brand_name": "Fansidar",
       "therapeutic_class": "Antifolate Combination",
       "indication": "Used to treat and prevent malaria caused by Plasmodium species.",
@@ -2286,6 +2286,555 @@
       ],
       "interactions": "Methylprednisolone may interact with certain medications. Consult your healthcare provider about potential drug interactions."
     }
+  ],
+  
+  "stimulants": [
+    {
+      "generic_name": "Methylphenidate",
+      "brand_name": "Ritalin",
+      "therapeutic_class": "Central Nervous System Stimulant",
+      "indication": "Used to treat attention deficit hyperactivity disorder (ADHD) and narcolepsy.",
+      "pharmacology": "Methylphenidate increases the levels of certain neurotransmitters, including dopamine and norepinephrine, in the brain.",
+      "contraindications": "Avoid methylphenidate if you have a known hypersensitivity to the drug or certain heart conditions.",
+      "composition": "Available in tablet, capsule, and extended-release tablet forms.",
+      "adverse_effects": [
+        "Common side effects include insomnia, loss of appetite, and nervousness."
+      ],
+      "interactions": "Methylphenidate may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    },
+    {
+      "generic_name": "Amphetamine-Dextroamphetamine",
+      "brand_name": "Adderall",
+      "therapeutic_class": "Central Nervous System Stimulant",
+      "indication": "Used to treat ADHD and narcolepsy.",
+      "pharmacology": "Amphetamine-dextroamphetamine increases the levels of dopamine and norepinephrine in the brain.",
+      "contraindications": "Avoid amphetamine-dextroamphetamine if you have a known hypersensitivity to the drug or certain heart conditions.",
+      "composition": "Available in tablet and extended-release capsule forms.",
+      "adverse_effects": [
+        "Common side effects include increased heart rate, anxiety, and insomnia."
+      ],
+      "interactions": "Amphetamine-dextroamphetamine may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    },
+    {
+      "generic_name": "Lisdexamfetamine",
+      "brand_name": "Vyvanse",
+      "therapeutic_class": "Central Nervous System Stimulant",
+      "indication": "Used to treat ADHD and binge-eating disorder.",
+      "pharmacology": "Lisdexamfetamine is converted to dextroamphetamine in the body, increasing the levels of dopamine and norepinephrine in the brain.",
+      "contraindications": "Avoid lisdexamfetamine if you have a known hypersensitivity to the drug or certain heart conditions.",
+      "composition": "Available in capsule form.",
+      "adverse_effects": [
+        "Common side effects include dry mouth, insomnia, and decreased appetite."
+      ],
+      "interactions": "Lisdexamfetamine may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    },
+    {
+      "generic_name": "Modafinil",
+      "brand_name": "Provigil",
+      "therapeutic_class": "Central Nervous System Stimulant",
+      "indication": "Used to treat narcolepsy, sleep apnea, and shift work sleep disorder.",
+      "pharmacology": "Modafinil affects certain neurotransmitters, promoting wakefulness and alertness.",
+      "contraindications": "Avoid modafinil if you have a known hypersensitivity to the drug or certain heart conditions.",
+      "composition": "Available in tablet form.",
+      "adverse_effects": [
+        "Common side effects include headache, nausea, and nervousness."
+      ],
+      "interactions": "Modafinil may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    },
+    {
+      "generic_name": "Dexmethylphenidate",
+      "brand_name": "Focalin",
+      "therapeutic_class": "Central Nervous System Stimulant",
+      "indication": "Used to treat ADHD.",
+      "pharmacology": "Dexmethylphenidate increases the levels of certain neurotransmitters, including dopamine and norepinephrine, in the brain.",
+      "contraindications": "Avoid dexmethylphenidate if you have a known hypersensitivity to the drug or certain heart conditions.",
+      "composition": "Available in tablet and extended-release capsule forms.",
+      "adverse_effects": [
+        "Common side effects include insomnia, loss of appetite, and nervousness."
+      ],
+      "interactions": "Dexmethylphenidate may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    },
+    {
+      "generic_name": "Dextroamphetamine",
+      "brand_name": "Dexedrine",
+      "therapeutic_class": "Central Nervous System Stimulant",
+      "indication": "Used to treat narcolepsy and ADHD.",
+      "pharmacology": "Dextroamphetamine increases the levels of certain neurotransmitters, including dopamine and norepinephrine, in the brain.",
+      "contraindications": "Avoid dextroamphetamine if you have a known hypersensitivity to the drug or certain heart conditions.",
+      "composition": "Available in tablet and extended-release capsule forms.",
+      "adverse_effects": [
+        "Common side effects include increased heart rate, anxiety, and insomnia."
+      ],
+      "interactions": "Dextroamphetamine may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    },
+    {
+      "generic_name": "Atomoxetine",
+      "brand_name": "Strattera",
+      "therapeutic_class": "Selective Norepinephrine Reuptake Inhibitor (NRI)",
+      "indication": "Used to treat ADHD.",
+      "pharmacology": "Atomoxetine increases norepinephrine levels in the brain, improving attention and reducing impulsiveness.",
+      "contraindications": "Avoid atomoxetine if you have a known hypersensitivity to the drug.",
+      "composition": "Available in capsule form.",
+      "adverse_effects": [
+        "Common side effects include drowsiness, nausea, and decreased appetite."
+      ],
+      "interactions": "Atomoxetine may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    },
+    {
+      "generic_name": "Pemoline",
+      "brand_name": "Cylert",
+      "therapeutic_class": "Central Nervous System Stimulant",
+      "indication": "Used to treat ADHD.",
+      "pharmacology": "The exact mechanism of action is unclear, but pemoline is thought to affect dopamine levels in the brain.",
+      "contraindications": "Avoid pemoline if you have a known hypersensitivity to the drug or certain liver conditions.",
+      "composition": "Available in tablet form.",
+      "adverse_effects": [
+        "Common side effects include appetite loss, insomnia, and liver toxicity."
+      ],
+      "interactions": "Pemoline may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    },
+    {
+      "generic_name": "Lisdexamfetamine",
+      "brand_name": "Mydayis",
+      "therapeutic_class": "Central Nervous System Stimulant",
+      "indication": "Used to treat ADHD in adults and children over the age of 13.",
+      "pharmacology": "Lisdexamfetamine is converted to dextroamphetamine in the body, increasing the levels of dopamine and norepinephrine in the brain.",
+      "contraindications": "Avoid lisdexamfetamine if you have a known hypersensitivity to the drug or certain heart conditions.",
+      "composition": "Available in capsule form.",
+      "adverse_effects": [
+        "Common side effects include dry mouth, insomnia, and decreased appetite."
+      ],
+      "interactions": "Lisdexamfetamine may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    },
+    {
+      "generic_name": "Dexmethylphenidate",
+      "brand_name": "Focalin XR",
+      "therapeutic_class": "Central Nervous System Stimulant",
+      "indication": "Used to treat ADHD.",
+      "pharmacology": "Dexmethylphenidate increases the levels of certain neurotransmitters, including dopamine and norepinephrine, in the brain.",
+      "contraindications": "Avoid dexmethylphenidate if you have a known hypersensitivity to the drug or certain heart conditions.",
+      "composition": "Available in extended-release capsule form.",
+      "adverse_effects": [
+        "Common side effects include insomnia, loss of appetite, and nervousness."
+      ],
+      "interactions": "Dexmethylphenidate may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    },
+    {
+      "generic_name": "Mazindol",
+      "brand_name": "Sanorex",
+      "therapeutic_class": "Central Nervous System Stimulant",
+      "indication": "Used as a short-term treatment for obesity.",
+      "pharmacology": "Mazindol affects neurotransmitters, reducing appetite and promoting weight loss.",
+      "contraindications": "Avoid mazindol if you have a known hypersensitivity to the drug or certain heart conditions.",
+      "composition": "Available in tablet form.",
+      "adverse_effects": [
+        "Common side effects include insomnia, headache, and dry mouth."
+      ],
+      "interactions": "Mazindol may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    },
+    {
+      "generic_name": "Phentermine-Topiramate",
+      "brand_name": "Qsymia",
+      "therapeutic_class": "Central Nervous System Stimulant",
+      "indication": "Used as an adjunct to diet and exercise for weight management.",
+      "pharmacology": "Phentermine-topiramate reduces appetite and promotes weight loss through various mechanisms.",
+      "contraindications": "Avoid phentermine-topiramate if you have a known hypersensitivity to the drug or certain heart conditions.",
+      "composition": "Available in capsule form.",
+      "adverse_effects": [
+        "Common side effects include insomnia, dry mouth, and increased heart rate."
+      ],
+      "interactions": "Phentermine-topiramate may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    }
+ 
+  ], 
+  
+  
+  "antipsychotic_medications": [
+    {
+      "generic_name": "Risperidone",
+      "brand_name": "Risperdal",
+      "therapeutic_class": "Atypical Antipsychotic",
+      "indication": "Used to treat schizophrenia, bipolar disorder, and irritability associated with autism.",
+      "pharmacology": "Risperidone affects dopamine and serotonin receptors in the brain, helping to control symptoms of psychosis.",
+      "contraindications": "Avoid risperidone if you have a known hypersensitivity to the drug.",
+      "composition": "Available in tablet, oral solution, and injection forms.",
+      "adverse_effects": [
+        "Common side effects include weight gain and drowsiness."
+      ],
+      "interactions": "Risperidone may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    },
+    {
+      "generic_name": "Olanzapine",
+      "brand_name": "Zyprexa",
+      "therapeutic_class": "Atypical Antipsychotic",
+      "indication": "Used to treat schizophrenia, bipolar disorder, and depression associated with bipolar disorder.",
+      "pharmacology": "Olanzapine affects dopamine and serotonin receptors in the brain, helping to control symptoms of psychosis.",
+      "contraindications": "Avoid olanzapine if you have a known hypersensitivity to the drug.",
+      "composition": "Available in tablet, orally disintegrating tablet, and injection forms.",
+      "adverse_effects": [
+        "Common side effects include weight gain and increased appetite."
+      ],
+      "interactions": "Olanzapine may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    },
+    {
+      "generic_name": "Quetiapine",
+      "brand_name": "Seroquel",
+      "therapeutic_class": "Atypical Antipsychotic",
+      "indication": "Used to treat schizophrenia, bipolar disorder, and major depressive disorder.",
+      "pharmacology": "Quetiapine affects dopamine and serotonin receptors in the brain, helping to control symptoms of psychosis and mood disorders.",
+      "contraindications": "Avoid quetiapine if you have a known hypersensitivity to the drug.",
+      "composition": "Available in tablet and extended-release tablet forms.",
+      "adverse_effects": [
+        "Common side effects include drowsiness and dry mouth."
+      ],
+      "interactions": "Quetiapine may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    },
+    {
+      "generic_name": "Aripiprazole",
+      "brand_name": "Abilify",
+      "therapeutic_class": "Atypical Antipsychotic",
+      "indication": "Used to treat schizophrenia, bipolar disorder, and irritability associated with autism.",
+      "pharmacology": "Aripiprazole affects dopamine and serotonin receptors in the brain, helping to control symptoms of psychosis and mood disorders.",
+      "contraindications": "Avoid aripiprazole if you have a known hypersensitivity to the drug.",
+      "composition": "Available in tablet, oral solution, and injection forms.",
+      "adverse_effects": [
+        "Common side effects include restlessness and headache."
+      ],
+      "interactions": "Aripiprazole may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    },
+    {
+      "generic_name": "Ziprasidone",
+      "brand_name": "Geodon",
+      "therapeutic_class": "Atypical Antipsychotic",
+      "indication": "Used to treat schizophrenia and bipolar disorder.",
+      "pharmacology": "Ziprasidone affects dopamine and serotonin receptors in the brain, helping to control symptoms of psychosis and mood disorders.",
+      "contraindications": "Avoid ziprasidone if you have a known hypersensitivity to the drug.",
+      "composition": "Available in capsule and injection forms.",
+      "adverse_effects": [
+        "Common side effects include dizziness and constipation."
+      ],
+      "interactions": "Ziprasidone may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    },
+    {
+      "generic_name": "Haloperidol",
+      "brand_name": "Haldol",
+      "therapeutic_class": "Typical Antipsychotic",
+      "indication": "Used to treat schizophrenia and acute psychosis.",
+      "pharmacology": "Haloperidol affects dopamine receptors in the brain, helping to control symptoms of psychosis.",
+      "contraindications": "Avoid haloperidol if you have a known hypersensitivity to the drug or certain medical conditions like Parkinson's disease.",
+      "composition": "Available in tablet and injection forms.",
+      "adverse_effects": [
+        "Common side effects include extrapyramidal symptoms and tardive dyskinesia."
+      ],
+      "interactions": "Haloperidol may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    },
+    {
+      "generic_name": "Clozapine",
+      "brand_name": "Clozaril",
+      "therapeutic_class": "Atypical Antipsychotic",
+      "indication": "Used to treat treatment-resistant schizophrenia.",
+      "pharmacology": "Clozapine affects multiple receptors in the brain, helping to control symptoms of psychosis.",
+      "contraindications": "Avoid clozapine if you have a known hypersensitivity to the drug or certain medical conditions like agranulocytosis.",
+      "composition": "Available in tablet and orally disintegrating tablet forms.",
+      "adverse_effects": [
+        "Common side effects include drooling and weight gain."
+      ],
+      "interactions": "Clozapine may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    },
+    {
+      "generic_name": "Lurasidone",
+      "brand_name": "Latuda",
+      "therapeutic_class": "Atypical Antipsychotic",
+      "indication": "Used to treat schizophrenia and bipolar depression.",
+      "pharmacology": "Lurasidone affects dopamine and serotonin receptors in the brain, helping to control symptoms of psychosis and mood disorders.",
+      "contraindications": "Avoid lurasidone if you have a known hypersensitivity to the drug.",
+      "composition": "Available in tablet form.",
+      "adverse_effects": [
+        "Common side effects include akathisia and somnolence."
+      ],
+      "interactions": "Lurasidone may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    },
+    {
+      "generic_name": "Pimavanserin",
+      "brand_name": "Nuplazid",
+      "therapeutic_class": "Atypical Antipsychotic",
+      "indication": "Used to treat hallucinations and delusions associated with Parkinson's disease psychosis.",
+      "pharmacology": "Pimavanserin affects serotonin receptors in the brain, helping to control hallucinations and delusions.",
+      "contraindications": "Avoid pimavanserin if you have a known hypersensitivity to the drug.",
+      "composition": "Available in tablet form.",
+      "adverse_effects": [
+        "Common side effects include swelling and confusion."
+      ],
+      "interactions": "Pimavanserin may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    },
+    {
+      "generic_name": "Chlorpromazine",
+      "brand_name": "Thorazine",
+      "therapeutic_class": "Typical Antipsychotic",
+      "indication": "Used to treat schizophrenia and severe behavioral problems in children.",
+      "pharmacology": "Chlorpromazine affects dopamine receptors in the brain, helping to control symptoms of psychosis and agitation.",
+      "contraindications": "Avoid chlorpromazine if you have a known hypersensitivity to the drug.",
+      "composition": "Available in tablet and injection forms.",
+      "adverse_effects": [
+        "Common side effects include sedation and dry mouth."
+      ],
+      "interactions": "Chlorpromazine may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    }
+  ],
+  "antiemetic_medications": [
+  
+    {
+      "generic_name": "Ondansetron",
+      "brand_name": "Zofran",
+      "therapeutic_class": "Serotonin 5-HT3 Receptor Antagonist",
+      "indication": "Used to prevent nausea and vomiting caused by chemotherapy, radiation therapy, and surgery.",
+      "pharmacology": "Ondansetron blocks serotonin receptors in the brain and gut, reducing the sensation of nausea and the urge to vomit.",
+      "contraindications": "Avoid ondansetron if you have a known hypersensitivity to the drug.",
+      "composition": "Available in tablet, oral solution, and injection forms.",
+      "adverse_effects": [
+        "Common side effects include headache and constipation."
+      ],
+      "interactions": "Ondansetron may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    },
+    {
+      "generic_name": "Metoclopramide",
+      "brand_name": "Reglan",
+      "therapeutic_class": "Dopamine Receptor Antagonist",
+      "indication": "Used to treat and prevent nausea and vomiting, including those caused by chemotherapy, surgery, and certain gastrointestinal conditions.",
+      "pharmacology": "Metoclopramide blocks dopamine receptors in the brain and gut, reducing nausea and increasing stomach emptying.",
+      "contraindications": "Avoid metoclopramide if you have a known hypersensitivity to the drug or certain medical conditions like gastrointestinal bleeding.",
+      "composition": "Available in tablet, oral solution, and injection forms.",
+      "adverse_effects": [
+        "Common side effects include drowsiness and diarrhea."
+      ],
+      "interactions": "Metoclopramide may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    },
+    {
+      "generic_name": "Promethazine",
+      "brand_name": "Phenergan",
+      "therapeutic_class": "Phenothiazine Antihistamine",
+      "indication": "Used to treat and prevent nausea and vomiting, including those caused by motion sickness and surgery.",
+      "pharmacology": "Promethazine blocks histamine receptors in the brain, reducing the sensation of nausea and the urge to vomit.",
+      "contraindications": "Avoid promethazine if you have a known hypersensitivity to the drug or certain medical conditions like respiratory depression.",
+      "composition": "Available in tablet, oral solution, and injection forms.",
+      "adverse_effects": [
+        "Common side effects include drowsiness and dry mouth."
+      ],
+      "interactions": "Promethazine may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    },
+    {
+      "generic_name": "Diphenhydramine",
+      "brand_name": "Benadryl",
+      "therapeutic_class": "Antihistamine",
+      "indication": "Used to prevent motion sickness and treat nausea and vomiting caused by allergies and other conditions.",
+      "pharmacology": "Diphenhydramine blocks histamine receptors in the brain, reducing the sensation of nausea.",
+      "contraindications": "Avoid diphenhydramine if you have a known hypersensitivity to the drug or certain medical conditions like glaucoma.",
+      "composition": "Available in tablet, capsule, and oral solution forms.",
+      "adverse_effects": [
+        "Common side effects include drowsiness and dry mouth."
+      ],
+      "interactions": "Diphenhydramine may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    },
+    {
+      "generic_name": "Scopolamine",
+      "brand_name": "Transderm Scop",
+      "therapeutic_class": "Anticholinergic",
+      "indication": "Used as a patch to prevent motion sickness and treat nausea and vomiting.",
+      "pharmacology": "Scopolamine blocks cholinergic receptors in the brain, reducing the sensation of nausea and vomiting.",
+      "contraindications": "Avoid scopolamine if you have a known hypersensitivity to the drug or certain medical conditions like glaucoma.",
+      "composition": "Available as a transdermal patch.",
+      "adverse_effects": [
+        "Common side effects include dry mouth and dizziness."
+      ],
+      "interactions": "Scopolamine may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    },
+    {
+      "generic_name": "Prochlorperazine",
+      "brand_name": "Compazine",
+      "therapeutic_class": "Phenothiazine Antipsychotic",
+      "indication": "Used to treat and prevent nausea and vomiting, including those caused by chemotherapy and surgery.",
+      "pharmacology": "Prochlorperazine affects dopamine receptors in the brain, reducing the sensation of nausea and vomiting.",
+      "contraindications": "Avoid prochlorperazine if you have a known hypersensitivity to the drug or certain medical conditions like Parkinson's disease.",
+      "composition": "Available in tablet, suppository, and injection forms.",
+      "adverse_effects": [
+        "Common side effects include drowsiness and dry mouth."
+      ],
+      "interactions": "Prochlorperazine may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    },
+    {
+      "generic_name": "Dimenhydrinate",
+      "brand_name": "Dramamine",
+      "therapeutic_class": "Antihistamine",
+      "indication": "Used to prevent and treat motion sickness and nausea and vomiting caused by other conditions.",
+      "pharmacology": "Dimenhydrinate blocks histamine receptors in the brain, reducing the sensation of nausea.",
+      "contraindications": "Avoid dimenhydrinate if you have a known hypersensitivity to the drug or certain medical conditions like glaucoma.",
+      "composition": "Available in tablet and oral solution forms.",
+      "adverse_effects": [
+        "Common side effects include drowsiness and dry mouth."
+      ],
+      "interactions": "Dimenhydrinate may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    },
+    {
+      "generic_name": "Granisetron",
+      "brand_name": "Kytril",
+      "therapeutic_class": "Serotonin 5-HT3 Receptor Antagonist",
+      "indication": "Used to prevent nausea and vomiting caused by chemotherapy and radiation therapy.",
+      "pharmacology": "Granisetron blocks serotonin receptors in the gut, reducing the sensation of nausea and vomiting.",
+      "contraindications": "Avoid granisetron if you have a known hypersensitivity to the drug.",
+      "composition": "Available in tablet and injection forms.",
+      "adverse_effects": [
+        "Common side effects include headache and constipation."
+      ],
+      "interactions": "Granisetron may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    },
+    {
+      "generic_name": "Aprepitant",
+      "brand_name": "Emend",
+      "therapeutic_class": "Neurokinin-1 Receptor Antagonist",
+      "indication": "Used to prevent nausea and vomiting caused by chemotherapy.",
+      "pharmacology": "Aprepitant blocks neurokinin-1 receptors in the brain, reducing the sensation of nausea and vomiting.",
+      "contraindications": "Avoid aprepitant if you have a known hypersensitivity to the drug.",
+      "composition": "Available in capsule and oral suspension forms.",
+      "adverse_effects": [
+        "Common side effects include fatigue and hiccups."
+      ],
+      "interactions": "Aprepitant may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    },
+    {
+      "generic_name": "Dolasetron",
+      "brand_name": "Anzemet",
+      "therapeutic_class": "Serotonin 5-HT3 Receptor Antagonist",
+      "indication": "Used to prevent nausea and vomiting caused by chemotherapy and radiation therapy.",
+      "pharmacology": "Dolasetron blocks serotonin receptors in the gut, reducing the sensation of nausea and vomiting.",
+      "contraindications": "Avoid dolasetron if you have a known hypersensitivity to the drug.",
+      "composition": "Available in tablet and injection forms.",
+      "adverse_effects": [
+        "Common side effects include headache and diarrhea."
+      ],
+      "interactions": "Dolasetron may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    },
+    {
+      "generic_name": "Trimethobenzamide",
+      "brand_name": "Tigan",
+      "therapeutic_class": "Antiemetic",
+      "indication": "Used to treat and prevent nausea and vomiting, including those caused by surgery and chemotherapy.",
+      "pharmacology": "Trimethobenzamide affects the chemoreceptor trigger zone in the brain, reducing the sensation of nausea and vomiting.",
+      "contraindications": "Avoid trimethobenzamide if you have a known hypersensitivity to the drug.",
+      "composition": "Available in capsule and injection forms.",
+      "adverse_effects": [
+        "Common side effects include drowsiness and dizziness."
+      ],
+      "interactions": "Trimethobenzamide may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    }
+   
+  ],
+  
+  "anticancer_medications": [
+    {
+      "generic_name": "Imatinib",
+      "brand_name": "Gleevec",
+      "therapeutic_class": "Tyrosine Kinase Inhibitor",
+      "indication": "Used to treat chronic myeloid leukemia (CML) and gastrointestinal stromal tumors (GISTs).",
+      "pharmacology": "Imatinib inhibits specific tyrosine kinases, which play a role in the growth of cancer cells.",
+      "contraindications": "Avoid imatinib if you have a known hypersensitivity to the drug.",
+      "composition": "Available in tablet and capsule forms.",
+      "adverse_effects": [
+        "Common side effects include nausea and muscle cramps."
+      ],
+      "interactions": "Imatinib may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    },
+    {
+      "generic_name": "Paclitaxel",
+      "brand_name": "Taxol",
+      "therapeutic_class": "Taxane Chemotherapy",
+      "indication": "Used to treat various types of cancer, including breast, ovarian, and lung cancer.",
+      "pharmacology": "Paclitaxel interferes with the microtubules in cancer cells, preventing their growth and division.",
+      "contraindications": "Avoid paclitaxel if you have a known hypersensitivity to the drug or certain medical conditions like severe infections.",
+      "composition": "Available in injection form.",
+      "adverse_effects": [
+        "Common side effects include hair loss and neuropathy."
+      ],
+      "interactions": "Paclitaxel may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    },
+    {
+      "generic_name": "Cisplatin",
+      "brand_name": "Platinol",
+      "therapeutic_class": "Platinum-Based Chemotherapy",
+      "indication": "Used to treat various types of cancer, including testicular, ovarian, and lung cancer.",
+      "pharmacology": "Cisplatin forms crosslinks in DNA, disrupting the replication of cancer cells.",
+      "contraindications": "Avoid cisplatin if you have a known hypersensitivity to the drug or certain medical conditions like kidney problems.",
+      "composition": "Available in injection form.",
+      "adverse_effects": [
+        "Common side effects include kidney toxicity and nausea."
+      ],
+      "interactions": "Cisplatin may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    },
+    {
+      "generic_name": "Trastuzumab",
+      "brand_name": "Herceptin",
+      "therapeutic_class": "Monoclonal Antibody",
+      "indication": "Used to treat breast cancer that overexpresses the HER2 protein.",
+      "pharmacology": "Trastuzumab targets HER2-positive cancer cells, inhibiting their growth.",
+      "contraindications": "Avoid trastuzumab if you have a known hypersensitivity to the drug.",
+      "composition": "Available in injection form.",
+      "adverse_effects": [
+        "Common side effects include heart problems and infusion reactions."
+      ],
+      "interactions": "Trastuzumab may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    },
+    {
+      "generic_name": "Rituximab",
+      "brand_name": "Rituxan",
+      "therapeutic_class": "Monoclonal Antibody",
+      "indication": "Used to treat non-Hodgkin lymphoma and chronic lymphocytic leukemia.",
+      "pharmacology": "Rituximab targets CD20-positive B cells, reducing their numbers in cancer.",
+      "contraindications": "Avoid rituximab if you have a known hypersensitivity to the drug.",
+      "composition": "Available in injection form.",
+      "adverse_effects": [
+        "Common side effects include infusion reactions and low blood cell counts."
+      ],
+      "interactions": "Rituximab may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    },
+    {
+      "generic_name": "Erlotinib",
+      "brand_name": "Tarceva",
+      "therapeutic_class": "Tyrosine Kinase Inhibitor",
+      "indication": "Used to treat non-small cell lung cancer and pancreatic cancer.",
+      "pharmacology": "Erlotinib inhibits specific tyrosine kinases, which play a role in the growth of cancer cells.",
+      "contraindications": "Avoid erlotinib if you have a known hypersensitivity to the drug.",
+      "composition": "Available in tablet form.",
+      "adverse_effects": [
+        "Common side effects include rash and diarrhea."
+      ],
+      "interactions": "Erlotinib may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    },
+    {
+      "generic_name": "Lenalidomide",
+      "brand_name": "Revlimid",
+      "therapeutic_class": "Immunomodulatory Drug",
+      "indication": "Used to treat multiple myeloma and certain types of lymphoma.",
+      "pharmacology": "Lenalidomide affects the immune system and the growth of cancer cells.",
+      "contraindications": "Avoid lenalidomide if you have a known hypersensitivity to the drug.",
+      "composition": "Available in capsule form.",
+      "adverse_effects": [
+        "Common side effects include low blood cell counts and blood clots."
+      ],
+      "interactions": "Lenalidomide may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    },
+    {
+      "generic_name": "Bortezomib",
+      "brand_name": "Velcade",
+      "therapeutic_class": "Proteasome Inhibitor",
+      "indication": "Used to treat multiple myeloma and mantle cell lymphoma.",
+      "pharmacology": "Bortezomib inhibits proteasomes in cancer cells, disrupting their growth.",
+      "contraindications": "Avoid bortezomib if you have a known hypersensitivity to the drug.",
+      "composition": "Available in injection form.",
+      "adverse_effects": [
+        "Common side effects include neuropathy and nausea."
+      ],
+      "interactions": "Bortezomib may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    }
+
   ]
 
 

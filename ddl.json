@@ -1,0 +1,161 @@
+{
+  "gastrointestinal_drugs": [
+    {
+      "generic_name": "Omeprazole",
+      "brand_name": "Prilosec",
+      "therapeutic_class": "Proton Pump Inhibitor (PPI)",
+      "indication": "Used to treat gastroesophageal reflux disease (GERD), peptic ulcers, and Zollinger-Ellison syndrome.",
+      "pharmacology": "Omeprazole reduces stomach acid production by inhibiting the proton pump in gastric parietal cells.",
+      "contraindications": "Avoid omeprazole if you have a known hypersensitivity to the drug.",
+      "composition": "Available in capsule and oral suspension forms.",
+      "adverse_effects": [
+        "Common side effects include headache, diarrhea, and abdominal pain."
+      ],
+      "interactions": "Omeprazole may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    },
+    {
+      "generic_name": "Lansoprazole",
+      "brand_name": "Prevacid",
+      "therapeutic_class": "Proton Pump Inhibitor (PPI)",
+      "indication": "Used to treat GERD, peptic ulcers, and Zollinger-Ellison syndrome.",
+      "pharmacology": "Lansoprazole reduces stomach acid production by inhibiting the proton pump in gastric parietal cells.",
+      "contraindications": "Avoid lansoprazole if you have a known hypersensitivity to the drug.",
+      "composition": "Available in capsule and orally disintegrating tablet forms.",
+      "adverse_effects": [
+        "Common side effects include diarrhea, nausea, and abdominal pain."
+      ],
+      "interactions": "Lansoprazole may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    },
+    {
+      "generic_name": "Ranitidine",
+      "brand_name": "Zantac",
+      "therapeutic_class": "H2 Receptor Antagonist",
+      "indication": "Used to treat GERD, peptic ulcers, and heartburn.",
+      "pharmacology": "Ranitidine reduces stomach acid production by blocking H2 receptors on parietal cells.",
+      "contraindications": "Avoid ranitidine if you have a known hypersensitivity to the drug.",
+      "composition": "Available in tablet, oral solution, and injection forms.",
+      "adverse_effects": [
+        "Common side effects include headache, constipation, and diarrhea."
+      ],
+      "interactions": "Ranitidine may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    },
+    {
+      "generic_name": "Metoclopramide",
+      "brand_name": "Reglan",
+      "therapeutic_class": "Prokinetic Agent",
+      "indication": "Used to treat gastroesophageal reflux, gastroparesis, and nausea/vomiting.",
+      "pharmacology": "Metoclopramide enhances gastrointestinal motility and reduces nausea by affecting dopamine receptors.",
+      "contraindications": "Avoid metoclopramide if you have a history of seizures or gastrointestinal bleeding.",
+      "composition": "Available in tablet, oral solution, and injection forms.",
+      "adverse_effects": [
+        "Common side effects include drowsiness, diarrhea, and movement disorders."
+      ],
+      "interactions": "Metoclopramide may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    },
+    {
+      "generic_name": "Bismuth Subsalicylate",
+      "brand_name": "Pepto-Bismol",
+      "therapeutic_class": "Antidiarrheal",
+      "indication": "Used to relieve diarrhea, upset stomach, and indigestion.",
+      "pharmacology": "Bismuth subsalicylate has both antidiarrheal and anti-inflammatory effects in the gastrointestinal tract.",
+      "contraindications": "Avoid bismuth subsalicylate if you have a known allergy to salicylates or are taking certain medications.",
+      "composition": "Available in tablet, chewable tablet, and liquid forms.",
+      "adverse_effects": [
+        "Common side effects include darkening of the tongue and stool."
+      ],
+      "interactions": "Bismuth subsalicylate may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    },
+    {
+      "generic_name": "Dicyclomine",
+      "brand_name": "Bentyl",
+      "therapeutic_class": "Anticholinergic",
+      "indication": "Used to relieve symptoms of irritable bowel syndrome (IBS), including abdominal cramps and spasms.",
+      "pharmacology": "Dicyclomine relaxes smooth muscle in the gastrointestinal tract by blocking acetylcholine receptors.",
+      "contraindications": "Avoid dicyclomine if you have a known hypersensitivity to the drug or certain medical conditions like glaucoma.",
+      "composition": "Available in capsule and oral solution forms.",
+      "adverse_effects": [
+        "Common side effects include dry mouth, dizziness, and constipation."
+      ],
+      "interactions": "Dicyclomine may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    },
+    {
+      "generic_name": "Loperamide",
+      "brand_name": "Imodium",
+      "therapeutic_class": "Antidiarrheal",
+      "indication": "Used to treat acute and chronic diarrhea.",
+      "pharmacology": "Loperamide reduces intestinal motility and increases the absorption of water and electrolytes.",
+      "contraindications": "Avoid loperamide if you have a known hypersensitivity to the drug or certain medical conditions like infectious diarrhea.",
+      "composition": "Available in tablet, capsule, and liquid forms.",
+      "adverse_effects": [
+        "Common side effects include constipation and dizziness."
+      ],
+      "interactions": "Loperamide may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    },
+    {
+      "generic_name": "Ondansetron",
+      "brand_name": "Zofran",
+      "therapeutic_class": "5-HT3 Receptor Antagonist",
+      "indication": "Used to prevent nausea and vomiting caused by chemotherapy, radiation therapy, and surgery.",
+      "pharmacology": "Ondansetron blocks serotonin receptors in the brain and gastrointestinal tract, reducing nausea and vomiting.",
+      "contraindications": "Avoid ondansetron if you have a known hypersensitivity to the drug.",
+      "composition": "Available in tablet, orally disintegrating tablet, and injection forms.",
+      "adverse_effects": [
+        "Common side effects include headache, constipation, and dizziness."
+      ],
+      "interactions": "Ondansetron may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    },
+    {
+      "generic_name": "Simethicone",
+      "brand_name": "Gas-X",
+      "therapeutic_class": "Antiflatulent",
+      "indication": "Used to relieve gas and bloating in the gastrointestinal tract.",
+      "pharmacology": "Simethicone breaks down gas bubbles in the stomach and intestines, allowing them to be passed more easily.",
+      "contraindications": "Avoid simethicone if you have a known hypersensitivity to the drug.",
+      "composition": "Available in chewable tablet, capsule, and liquid forms.",
+      "adverse_effects": [
+        "Simethicone is generally well-tolerated with minimal side effects."
+      ],
+      "interactions": "Simethicone has no known drug interactions."
+    },
+    {
+      "generic_name": "Esomeprazole",
+      "brand_name": "Nexium",
+      "therapeutic_class": "Proton Pump Inhibitor (PPI)",
+      "indication": "Used to treat GERD, peptic ulcers, and Zollinger-Ellison syndrome.",
+      "pharmacology": "Esomeprazole reduces stomach acid production by inhibiting the proton pump in gastric parietal cells.",
+      "contraindications": "Avoid esomeprazole if you have a known hypersensitivity to the drug.",
+      "composition": "Available in capsule and oral suspension forms.",
+      "adverse_effects": [
+        "Common side effects include headache, diarrhea, and abdominal pain."
+      ],
+      "interactions": "Esomeprazole may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    },
+    {
+      "generic_name": "Hyoscyamine",
+      "brand_name": "Levsin",
+      "therapeutic_class": "Anticholinergic",
+      "indication": "Used to relieve symptoms of irritable bowel syndrome (IBS) and gastrointestinal cramping.",
+      "pharmacology": "Hyoscyamine relaxes smooth muscle in the gastrointestinal tract by blocking acetylcholine receptors.",
+      "contraindications": "Avoid hyoscyamine if you have a known hypersensitivity to the drug or certain medical conditions like glaucoma.",
+      "composition": "Available in tablet and oral solution forms.",
+      "adverse_effects": [
+        "Common side effects include dry mouth, dizziness, and constipation."
+      ],
+      "interactions": "Hyoscyamine may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    },
+    {
+      "generic_name": "Sucralfate",
+      "brand_name": "Carafate",
+      "therapeutic_class": "Gastrointestinal Protectant",
+      "indication": "Used to treat and prevent peptic ulcers by forming a protective barrier in the stomach.",
+      "pharmacology": "Sucralfate forms a viscous, adhesive substance that adheres to ulcerated areas and protects against gastric acid and pepsin.",
+      "contraindications": "Avoid sucralfate if you have a known hypersensitivity to the drug.",
+      "composition": "Available in tablet and suspension forms.",
+      "adverse_effects": [
+        "Common side effects include constipation and dry mouth."
+      ],
+      "interactions": "Sucralfate may interact with certain medications. Consult your healthcare provider about potential drug interactions."
+    }
+   
+  ]
+}
