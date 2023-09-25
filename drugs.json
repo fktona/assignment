@@ -1428,7 +1428,7 @@
       ],
       "interactions": "Amorolfine may interact with certain medications. Consult your healthcare provider about potential drug interactions."
     }
-    // Add more antifungal medications here
+ 
   ],
   
   "gastrointestinal_drugs": [
@@ -1588,7 +1588,7 @@
       ],
       "interactions": "Sucralfate may interact with certain medications. Consult your healthcare provider about potential drug interactions."
     }
-    // Add more gastrointestinal medications here
+
   ],
 
   "antiallergy_medications": [
@@ -1722,7 +1722,7 @@
       ],
       "interactions": "Emedastine may interact with certain medications. Consult your healthcare provider about potential drug interactions."
     }
-    // Add more antiallergy medications here
+  
   ],
 
   "hematinic_medications": [
@@ -1990,7 +1990,7 @@
       ],
       "interactions": "Methotrexate may interact with certain medications. Consult your healthcare provider about potential drug interactions."
     }
-    // Add more immunosuppressant medications here
+    
   ],
 
 
@@ -2125,7 +2125,7 @@
       ],
       "interactions": "Clonazepam may interact with certain medications. Consult your healthcare provider about potential drug interactions."
     }
-    // Add more anticonvulsant medications here
+    
   ],
   
   "respiratory_medications": [
